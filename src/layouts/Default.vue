@@ -3,7 +3,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand" href="index">Start Bootstrap</a>
+        <a class="navbar-brand" href="/">Start Bootstrap</a>
         <button
           class="navbar-toggler navbar-toggler-right"
           type="button"
